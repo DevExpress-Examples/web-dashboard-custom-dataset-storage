@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomDashboardStorage.cs](./CS/WebDesigner_CustomDashboardStorage/CustomDashboardStorage.cs) (VB: [CustomDashboardStorage.vb](./VB/WebDesigner_CustomDashboardStorage/CustomDashboardStorage.vb))
+* [Global.asax.cs](./CS/WebDesigner_CustomDashboardStorage/Global.asax.cs) (VB: [Global.asax.vb](./VB/WebDesigner_CustomDashboardStorage/Global.asax.vb))
+<!-- default file list end -->
 # ASPxDashboard - How to save dashboards created by end-users to a DataSet
 
 
