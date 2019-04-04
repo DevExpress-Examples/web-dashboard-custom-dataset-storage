@@ -3,7 +3,7 @@
 
 * [CustomDashboardStorage.cs](./CS/CustomDashboardStorage.cs) (VB: [CustomDashboardStorage.vb](./VB/CustomDashboardStorage.vb))
 * [DashboardStorageDataSet.cs](./CS/DashboardStorageDataSet.cs) (VB: [DashboardStorageDataSet.vb](./VB/DashboardStorageDataSet.vb))
-* [WebForm1.aspx](./CS/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/WebForm1.aspx.vb))
 <!-- default file list end -->
 # ASPxDashboard - How to save dashboards created by end-users to a DataSet
