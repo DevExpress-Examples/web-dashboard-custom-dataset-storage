@@ -6,11 +6,9 @@
 
 # Dashboard for Web Forms - How to Save Dashboards to a DataSet
 
-The following example shows how to create a custom dashboard storage.
+The following example shows how to create a custom dashboard storage. In this example, a <a href="https://msdn.microsoft.com/en-us/library/system.data.dataset(v=vs.110).aspx">DataSet</a> is used as an in-memory storage of dashboards. You can use <a href="https://msdn.microsoft.com/en-us/library/system.data.common.dataadapter(v=vs.110).aspx">DataAdapter</a> to save dashboard from this DataSet to the database.
 
 A custom dashboard storage should implement one of the following interfaces: [IDashboardStorage](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.IDashboardStorage) or [IEditableDashboardStorage](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.IEditableDashboardStorage).
-
-In this example, a <a href="https://msdn.microsoft.com/en-us/library/system.data.dataset(v=vs.110).aspx">DataSet</a> is used as an in-memory storage of dashboards. You can use <a href="https://msdn.microsoft.com/en-us/library/system.data.common.dataadapter(v=vs.110).aspx">DataAdapter</a> to save dashboard from this DataSet to the database.
 
 ## Files to Look at
 
